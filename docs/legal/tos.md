@@ -10,14 +10,14 @@
 * **Creator**: refers to the service maker and affiliated parties
 
 ## Eligibility
- #### **You must:**
+#### **You must:**
  1. Be at least 13 years old or the minimum age required by your jurisdiction in line with *COPPA Privacy Laws* to use this service.
  2. Comply with all applicable laws and regulations in line with *Discords TOS* and *COPPA*.
  3. Comply with Discord's Terms of Service and Community Guidelines.
- 4. Possess authority to manage any server where you install or configure the Service.
- #### **Links**
- Discord: [Discord TOS](https://discordapp.com:8443/terms/terms-of-service-may-2020) | [Discord Community Guidelines](https://discord.com/guidelines/)  
- Other: [COPPA Privacy Act](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
+ 4. Possess authority to manage any server where you install or configure the Service.  
+#### <ins>**Links**</ins>  
+ **Discord:** [Discord TOS](https://discordapp.com:8443/terms/terms-of-service-may-2020) | [Discord Community Guidelines](https://discord.com/guidelines/)  
+ **Other:** [COPPA Privacy Act](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa)
 
 ## License to Use the Service
 
@@ -89,7 +89,7 @@ If premium subscriptions, donations, or paid services are offered:
  * Access may be revoked upon chargebacks, fraud, or violations of these Terms.
  * Prices may change with reasonable notice.
 
- ##### *If there any issues regarding payment, use the contact details below to reach out!*
+##### *If there any issues regarding payment, use the contact details below to reach out!*
 
 ## Suspension and Termination
 
