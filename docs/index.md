@@ -23,3 +23,8 @@
 #### Community Tools ~ *Coming Soon*
 * Fully customizable **leveling system** with automatic role assignment 
 * Fun minigames (ie. rock, paper, scisors & more)
+
+##Legal 
+
+[Terms of Service](legal/tos)
+[Privacy Policy](legal/privacypolicy)
