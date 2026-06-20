@@ -1,0 +1,66 @@
+{
+  "link.title.Service": {
+    "message": "Service",
+    "description": "The title of the footer links column with title=Service in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.title.Legal ": {
+    "message": "Legal ",
+    "description": "The title of the footer links column with title=Legal  in the footer"
+  },
+  "link.item.label.Invite Armani Bot": {
+    "message": "Invite Armani Bot",
+    "description": "The label of footer link with label=Invite Armani Bot linking to #"
+  },
+  "link.item.label.Command List": {
+    "message": "Command List",
+    "description": "The label of footer link with label=Command List linking to /docs/Commands"
+  },
+  "link.item.label.Updates & Bug Fixes": {
+    "message": "Updates & Bug Fixes",
+    "description": "The label of footer link with label=Updates & Bug Fixes linking to /Updates"
+  },
+  "link.item.label.CountBBs Cavern": {
+    "message": "CountBBs Cavern",
+    "description": "The label of footer link with label=CountBBs Cavern linking to https://discord.gg/5e2vk6wf3u"
+  },
+  "link.item.label.CountBBs Twitch": {
+    "message": "CountBBs Twitch",
+    "description": "The label of footer link with label=CountBBs Twitch linking to https://www.twitch.tv/countbbs"
+  },
+  "link.item.label.D14M0NDB4CKs Twitch": {
+    "message": "D14M0NDB4CKs Twitch",
+    "description": "The label of footer link with label=D14M0NDB4CKs Twitch linking to https://www.twitch.tv/d14m0ndb4cks"
+  },
+  "link.item.label.Updates": {
+    "message": "Updates",
+    "description": "The label of footer link with label=Updates linking to /Updates"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/armanibot"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Privacy Policy",
+    "description": "The label of footer link with label=Privacy Policy linking to https://github.com/armanibot/armanibot-website/blob/main/privacy-policy.md"
+  },
+  "link.item.label.Terms of Service": {
+    "message": "Terms of Service",
+    "description": "The label of footer link with label=Terms of Service linking to https://github.com/armanibot/armanibot-website/blob/main/terms-of-service.md"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 Armani Bot.",
+    "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "Armani Bot Logo",
+    "description": "The alt text of footer logo"
+  }
+}

@@ -78,3 +78,34 @@
 }
 
 /*__________*/
+
+/*_____Footer Customization_____*/
+
+.footer {
+  background-color: #141414;
+  color: #f18306;
+  border-top: 1px solid #f18306;
+  text-align: left;
+  padding: 20px;
+}
+
+.footer__copyright {
+  display: block;
+  width: 100%;
+  border-top: 1px solid #f1830673;
+  padding-top: 10px;
+}
+
+.footer__logo {
+  width: 250px;
+  height: auto;
+  position: absolute;
+  left: 75%;
+  transform: translateX(-50%);
+  top: -101px;
+}
+
+.footer__bottom {
+  position: relative;
+  padding-top: 60px;
+}

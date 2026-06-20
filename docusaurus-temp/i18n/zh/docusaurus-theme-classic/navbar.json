@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Armani Bot",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Armani Bot Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.About": {
+    "message": "About",
+    "description": "Navbar item with label About"
+  },
+  "item.label.Updates": {
+    "message": "Updates",
+    "description": "Navbar item with label Updates"
+  },
+  "item.label.Support": {
+    "message": "Support",
+    "description": "Navbar item with label Support"
+  }
+}

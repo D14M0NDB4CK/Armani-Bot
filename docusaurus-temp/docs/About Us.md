@@ -27,11 +27,9 @@ We are but a small group of two with a big goal of providing a relief to streame
   <div>
     <h2>D14M0NDB4CK</h2>
 
-    <p>
       "Hiya! Im the guy doing all the code. I brought this idea up to CountBB as a way to streamline his discord server, 
       but we decided after we got it working that we would release Armani Bot into the wild to help others like us. 
       I've never done code before, but my way of practicing is by making this very website." ~ 06/17/2026
-    </p>
   </div>
 </div>
 
@@ -61,10 +59,8 @@ We are but a small group of two with a big goal of providing a relief to streame
   <div>
     <h2>CountBB</h2>
 
-    <p>
        Hey All! Count BB here and Armani is actually my cat and seriously wants D14M0NDB4CK to Streamline my Discord Server so we can stop worrying about at least one less thing! And pay a little more attention.      
        ~ 06/17/2026
-    </p>
   </div>
 </div>
 
@@ -94,9 +90,7 @@ We are but a small group of two with a big goal of providing a relief to streame
   <div>
     <h2>Armani</h2>
 
-    <p>
-       Mrrrow... *stretches lazily across the keyboard and knocks a pen onto the floor.* Mrrp mrrp. *Flicks tail and stares suspiciously at absolutely nothing in the corner of the room.* Purrrrrrrr... *circles twice before sitting directly on the most important document available.* Meow. *Slow blinks, then casually swats a water glass off the desk before trotting away as if nothing happened.* 🐾😸 ~ 06/17/2026
-    </p>
+     Mrrrow... *stretches lazily across the keyboard and knocks a pen onto the floor.* Mrrp mrrp. *Flicks tail and stares suspiciously at absolutely nothing in the corner of the room.* Purrrrrrrr... *circles twice before sitting directly on the most important document available.* Meow. *Slow blinks, then casually swats a water glass off the desk before trotting away as if nothing happened.* 🐾😸 ~ 06/17/2026   
   </div>
 </div>
 

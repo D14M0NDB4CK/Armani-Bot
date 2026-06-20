@@ -34,7 +34,8 @@ const config = {
   // Language
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es', 'da', 'zh', 'de', 'fr', 'hi'
+    ],
   },
 
   /*_____Header______*/
@@ -58,7 +59,7 @@ const config = {
           },
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onUntruncatedBlogPosts: 'ignore',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -93,6 +94,10 @@ const config = {
             label: 'Support',
             position: 'right',
           },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
 
@@ -102,13 +107,28 @@ const config = {
 
       footer: {
         style: 'dark',
+        logo: {
+          alt: 'Armani Bot Logo',
+          src: 'img/armanibot/relaxing_ledge.png',
+          href: '#',
+          width: 80,
+          height: 80,
+        },
         links: [
           {
-            title: 'Docs',
+            title: 'Service',
             items: [
               {
-                label: 'About Us',
-                to: '/docs/About Us',
+                label: 'Invite Armani Bot',
+                href: '#',
+              },
+              {
+                label: 'Command List',
+                to: '/docs/About Armani Bot/Commands',
+              },
+              {
+                label: 'Updates & Bug Fixes',
+                to: '/Updates',
               },
             ],
           },
@@ -116,25 +136,25 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord Community & Support',
+                label: 'CountBBs Cavern',
                 href: 'https://discord.gg/5e2vk6wf3u',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'CountBBs Twitch',
+                href: 'https://www.twitch.tv/countbbs',
               },
+              {
+                label: 'D14M0NDB4CKs Twitch',
+                href: 'https://www.twitch.tv/d14m0ndb4cks',
+              }
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Update Notes',
-                to: '/Update Notes',
+                label: 'Updates',
+                to: '/Updates',
               },
               {
                 label: 'GitHub',
@@ -142,6 +162,19 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Legal ',
+            items: [
+              {
+                label: 'Privacy Policy',
+                href: 'https://github.com/armanibot/armanibot-website/blob/main/privacy-policy.md',
+              },
+              {
+                label: 'Terms of Service',
+                href: 'https://github.com/armanibot/armanibot-website/blob/main/terms-of-service.md',
+              }
+            ],
+          }
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Armani Bot.`,
       },
@@ -149,9 +182,8 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
-
-      /*__________*/
     }),
+    /*__________*/
 };
 
 export default config;

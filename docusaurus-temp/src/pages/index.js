@@ -45,30 +45,42 @@ export default function Home() {
       <HomepageHeader />
       <main>
         {/*_____Welcome Section_____*/}
-        <section style={{ padding: '4rem' , textAlign: 'center' }}>
-          <Heading as="h1">Welcome to Armani Bot!</Heading>
-          <p style={{ fontSize: '1.5rem', marginTop: '1rem' }}>
-            Your purr-fect companion for all things Discord! 🐾
-          </p>
-        </section>
-        {/*_____Meet Armani Section_____*/}
         <section className={styles.meetArmani}>
           <img
-           src="/img/armani/meet_armani.jpg"
+            src="/img/armani/meet_armani.jpg"
             alt="Armani"
             className={styles.armaniImage}
           />
-            <div className={styles.meetArmaniText}>
-              <h1>Meet Armani</h1>
-                <p>
-                  Armani is the official mascot of Armani Bot. Known for supervising
-                  development from the keyboard, demanding treats during coding sessions,
-                  and maintaining strict quality control standards, Armani keeps the team
-                  focused while providing endless entertainment.
-                </p>
-            </div>
+          <div className={styles.meetArmaniText}>
+            <h1>Meet Armani</h1>
+            <p>
+              Armani is the official mascot of Armani Bot. Known for supervising
+              development from the keyboard, demanding treats during coding sessions,
+              and maintaining strict quality control standards, Armani keeps the team
+              focused while providing endless entertainment.
+            </p>
+          </div>
+          <div className={styles.armaniDivider}></div>
+          <div className={styles.whyabText}>
+            <h1>Why Armani Bot?</h1>
+            <p>
+              Armani Bot is named after our beloved feline supervisor, Armani. We chose this name to reflect our commitment to quality, 
+              reliability, and a touch of feline charm. Just like Armani keeps a watchful eye on our development process, Armani Bot is 
+              designed to be a vigilant and dependable companion for your Discord server. We wanted an app that could do everything the 
+              other bots could do and more, with some added features to help us moderate and manage our server more effectively. Plus, 
+              who doesn't love a good cat pun?
+            </p>
+          </div>
         </section>
-        <HomepageFeatures />
+        {/*__________*/}
+        <div className={styles.kfDivider}></div>
+        {/*_____Key Features Section_____*/}
+        <section className={styles.keyFeatures}>  
+          <img
+            src="/img/banner/features_list.png"
+            alt="Features List"
+          />
+        </section>
       </main>
     </Layout>
   );

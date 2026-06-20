@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.About Armani Bot": {
+    "message": "About Armani Bot",
+    "description": "The label for category 'About Armani Bot' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Legal Stuff": {
+    "message": "Legal Stuff",
+    "description": "The label for category 'Legal Stuff' in sidebar 'tutorialSidebar'"
+  }
+}
