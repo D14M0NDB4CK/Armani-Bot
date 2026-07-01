@@ -11,6 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Armani Bot',
+  tagline: 'One bot to rule them all.',
   favicon: 'img/favicon/favicon.ico',
 
   future: {
